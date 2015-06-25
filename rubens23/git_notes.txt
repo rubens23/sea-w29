@@ -1,0 +1,8 @@
+Git is a free control system that is commonly used for software development
+
+It is  designed to handle many different types of projects.
+
+It allows you to easily share data and file through working directories and
+online repositories.
+
+It features local branching, staging areas and workflows.
