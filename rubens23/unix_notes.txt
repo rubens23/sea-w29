@@ -1,0 +1,7 @@
+UNIX is a computer operating system created in the 60s and 70s.
+
+Open-source descendants of UNIX include: Linux, Darwin, BSD, and Solaris.
+
+The standard that all of these operating systems share is called POSIX.
+
+UNIX has its own filesystem and shell scripting as well as command language.
